@@ -1,0 +1,51 @@
+# ===============================
+# Unity.gitignore (for Git)
+# ===============================
+
+# OSごとのファイル
+.DS_Store
+Thumbs.db
+
+# Unity不要ファイル
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vs/
+
+# RiderやVS CodeなどIDE関連
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# その他不要ファイル
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 署名ファイル
+*.snk
+
+# Visual Studio Code
+.vscode/
+
+# Unityクラッシュログなど
+sysinfo.txt
+
+# Unity Collaborateの履歴
+.collabignore
+
+# ビルド成果物（任意）
+Builds/
