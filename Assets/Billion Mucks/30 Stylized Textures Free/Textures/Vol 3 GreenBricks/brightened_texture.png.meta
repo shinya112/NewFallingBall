@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      brightened_texture_0: 9142264322722987394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
