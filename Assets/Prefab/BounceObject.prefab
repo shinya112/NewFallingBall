@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: -1878744631376505993}
   - component: {fileID: 4957597756836279191}
   - component: {fileID: 2953810389760393054}
+  - component: {fileID: 6294664381028898649}
   m_Layer: 3
   m_Name: BounceObject
   m_TagString: BounceObject
@@ -191,6 +192,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 1
   value: 2
+--- !u!114 &6294664381028898649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681665291279606981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53802e129bff1c4181f6a87dd69183c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreValue: 1
+  isMultiplying: 0
 --- !u!1 &3227399872359906792
 GameObject:
   m_ObjectHideFlags: 0
